@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ControlMobiliario</string>
+    <string name="ok">Aceptar</string>
+    <string name="furniture_name">Nombre del activo</string>
+    <string name="furniture_kind">Tipo de activo</string>
+    <string name="furniture_description">Descripcion</string>
+    <string name="adquisition_date">Fecha de adquisición</string>
+    <string name="add">Agregar activo</string>
+</resources>
